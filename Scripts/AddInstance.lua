@@ -13,7 +13,8 @@ end
 
 local my_assets, my_repos = {
     "HHxScripts/Assets/Audios/AutoFarmLevel_Enabled.mp3",
-    "HHxScripts/Assets/Audios/AutoFarmLevel_Disabled.mp3"
+    "HHxScripts/Assets/Audios/AutoFarmLevel_Disabled.mp3",
+    "HHxScripts/Assets/Audios/Endfield_24.mp3"
 }, "https://raw.githubusercontent.com/Ancient2k3/Assets/refs/heads/main/Audio/"
 
 function dwnload_audio_asset()
