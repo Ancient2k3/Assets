@@ -3,7 +3,7 @@ local ws = game:GetService("Workspace")
 
 function create_dictionaries()
     local folders = {
-        "HHxScripts", "HHxScripts/Assets", "HHxScripts/Assets/Audios", "HHxScripts/Assets/Images"
+        "HHxScripts", "HHxScripts/Assets", "HHxScripts/Items", "HHxScripts/Assets/Audios", "HHxScripts/Assets/Images"
     } for index = 1, #folders do
         if not isfolder(folders[index]) then
             makefolder(folders[index])
