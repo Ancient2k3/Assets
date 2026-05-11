@@ -19,7 +19,8 @@ local my_assets, my_repos = {
     "HHxScripts/Assets/Audios/Endfield_42.mp3",
     "HHxScripts/Assets/Audios/NightCore_1.mp3",
     "HHxScripts/Assets/Audios/My_Jeliousy.mp3",
-    "HHxScripts/Assets/Audios/Dare_Sayfalse.mp3"
+    "HHxScripts/Assets/Audios/Dare_Sayfalse.mp3",
+    "HHxScripts/Assets/Audios/Arknights_OST.mp3"
 }, "https://raw.githubusercontent.com/Ancient2k3/Assets/refs/heads/main/Audio/"
 
 function dwnload_audio_asset()
