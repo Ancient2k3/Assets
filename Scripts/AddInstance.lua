@@ -17,6 +17,7 @@ local my_assets, my_repos = {
     "HHxScripts/Assets/Audios/1800-bbno.mp3",
     "HHxScripts/Assets/Audios/Endfield_24.mp3",
     "HHxScripts/Assets/Audios/Endfield_42.mp3",
+    "HHxScripts/Assets/Audios/Endfield_CC_OST.mp3",
     "HHxScripts/Assets/Audios/NightCore_1.mp3",
     "HHxScripts/Assets/Audios/My_Jeliousy.mp3",
     "HHxScripts/Assets/Audios/Dare_Sayfalse.mp3",
